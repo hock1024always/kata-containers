@@ -1,0 +1,32 @@
+src/tools/csi-kata-directvolume/pkg/directvolume/controllerserver_capacity_test.go
+  s_c2c8ed1b6d8d58::t_91b0eec1cfadeb 1-14,16,18-170,173-230,232-306
+  s_c2c8ed1b6d8d58::t_dae41b4f46fa10 15,17,171-172,231
+src/tools/csi-kata-directvolume/pkg/utils/utils.go
+  s_c2c8ed1b6d8d58::t_533eb1fbd9ac04 32-35
+src/tools/csi-kata-directvolume/pkg/directvolume/controllerserver.go
+  s_c2c8ed1b6d8d58::t_b76d8bb6df0098 56-61,71-73,79-91
+  s_c2c8ed1b6d8d58::t_daa0c433ed5def 92,284-303,305,307-320
+  s_c2c8ed1b6d8d58::t_b1ee056a0e1311 304
+  s_c2c8ed1b6d8d58::t_b6577723cf330c 93
+src/tools/csi-kata-directvolume/pkg/utils/capacity.go
+  s_c2c8ed1b6d8d58::t_3c1d09008c6e9c 63-72
+src/tools/csi-kata-directvolume/pkg/directvolume/directvolume.go
+  s_c2c8ed1b6d8d58::t_82539d54c9d826 146-150
+  s_c2c8ed1b6d8d58::t_74db4496ea7a0e 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "683d4b5e48792323af71b9674956bbbb2918dfa6",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
