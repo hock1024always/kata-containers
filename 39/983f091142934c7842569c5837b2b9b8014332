@@ -1,0 +1,20 @@
+src/tools/csi-kata-directvolume/pkg/directvolume/nodeserver.go
+  s_c2c8ed1b6d8d58::t_6dc77f33a04223 473-477
+  s_c2c8ed1b6d8d58::t_800b15dce5a70d 141-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "39983f091142934c7842569c5837b2b9b8014332",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
