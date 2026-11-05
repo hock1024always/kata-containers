@@ -1,0 +1,27 @@
+src/tools/csi-kata-directvolume/pkg/utils/utils.go
+  s_c2c8ed1b6d8d58::t_e8886e4f699c5a 32-36
+src/tools/csi-kata-directvolume/pkg/directvolume/controllerserver_capacity_test.go
+  s_c2c8ed1b6d8d58::t_35addde89ead6a 72,86-87
+src/tools/csi-kata-directvolume/pkg/utils/capacity.go
+  s_c2c8ed1b6d8d58::t_e8886e4f699c5a 64-66
+src/tools/csi-kata-directvolume/pkg/directvolume/directvolume.go
+  s_c2c8ed1b6d8d58::t_e8886e4f699c5a 31-33,147-152
+src/tools/csi-kata-directvolume/pkg/directvolume/controllerserver.go
+  s_c2c8ed1b6d8d58::t_e8886e4f699c5a 56-61,81-89,289-291,293-299,307-312,324-332,339-341
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "397a9d081aeac43679526ddfd48c4231ead585d8",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
