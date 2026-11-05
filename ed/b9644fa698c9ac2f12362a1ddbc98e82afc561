@@ -1,0 +1,21 @@
+src/tools/csi-kata-directvolume/Makefile
+  s_c2c8ed1b6d8d58::t_b5e53906c9b555 12-18
+.github/workflows/build-checks.yaml
+  s_c2c8ed1b6d8d58::t_afee9b783fa2bb 84-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "edb9644fa698c9ac2f12362a1ddbc98e82afc561",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
