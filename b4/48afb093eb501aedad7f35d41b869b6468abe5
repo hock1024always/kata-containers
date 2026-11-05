@@ -1,0 +1,26 @@
+src/tools/csi-kata-directvolume/pkg/utils/safe_formater.go
+  s_c2c8ed1b6d8d58::t_d14868fb5bfbbe 31-37
+  s_c2c8ed1b6d8d58::t_ea1067b21ec772 75
+  s_c2c8ed1b6d8d58::t_ffe1bdd6561340 112-117
+src/tools/csi-kata-directvolume/pkg/utils/safe_formater_test.go
+  s_c2c8ed1b6d8d58::t_2d9c23a21f5a18 35
+  s_c2c8ed1b6d8d58::t_e43308a2e01c74 105
+  s_c2c8ed1b6d8d58::t_9302c289df8bec 50,73,89
+  s_c2c8ed1b6d8d58::t_b282e9b2c27048 1-34,36-49,51-72,74-88,90-104,106-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b448afb093eb501aedad7f35d41b869b6468abe5",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
