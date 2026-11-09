@@ -1,0 +1,28 @@
+src/tools/csi-kata-directvolume/deploy/directvol-deploy.sh
+  s_c2c8ed1b6d8d58::t_a42f6d95855751 22-27
+  s_c2c8ed1b6d8d58::t_d037ed012cc064 84-88
+src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol.md
+  s_c2c8ed1b6d8d58::t_79556fecc2742f 5,9-10,12-15
+  s_c2c8ed1b6d8d58::t_b2b0db6472517f 11
+  s_c2c8ed1b6d8d58::t_87ecf0d71497ba 16
+src/tools/csi-kata-directvolume/deploy/kata-directvolume/csi-directvol-driverinfo.yaml
+  s_c2c8ed1b6d8d58::t_8413b6bcbb66aa 18-23
+src/tools/csi-kata-directvolume/deploy/kata-directvolume/csi-directvol-plugin.yaml
+  s_c2c8ed1b6d8d58::t_fe379ce5ebe1d9 38-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a077c6f52035cf94dc96f3b720b436d14dbf53ff",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
