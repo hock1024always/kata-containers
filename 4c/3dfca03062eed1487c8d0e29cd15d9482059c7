@@ -1,0 +1,30 @@
+src/tools/csi-kata-directvolume/examples/pod-with-capacity/csi-storageclass.yaml
+  s_c2c8ed1b6d8d58::t_bd0b55b1ed55e8 1-20
+src/tools/csi-kata-directvolume/examples/pod-with-capacity/csi-pvc.yaml
+  s_c2c8ed1b6d8d58::t_a8d4d25516036f 1-13
+src/tools/csi-kata-directvolume/examples/pod-with-capacity/capacity-configmap.yaml
+  s_c2c8ed1b6d8d58::t_0dc2464e36fa9b 1-23
+src/tools/csi-kata-directvolume/examples/pod-with-capacity/csi-app.yaml
+  s_c2c8ed1b6d8d58::t_532a343ad0f4ce 1-17
+src/tools/csi-kata-directvolume/examples/pod-with-capacity/README.md
+  s_c2c8ed1b6d8d58::t_2e8847d350d9ee 42-45
+  s_c2c8ed1b6d8d58::t_fbfecefcf92832 1-41,46-85
+src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol.md
+  s_c2c8ed1b6d8d58::t_f2f65865ccf79d 111-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4c3dfca03062eed1487c8d0e29cd15d9482059c7",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
