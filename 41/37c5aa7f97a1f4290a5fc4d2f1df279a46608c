@@ -1,0 +1,41 @@
+src/tools/csi-kata-directvolume/pkg/directvolume/controllerserver.go
+  s_c2c8ed1b6d8d58::t_98038f3ac3ff33 61-68,70,82-85,91-100
+  s_c2c8ed1b6d8d58::t_bd39085de68d79 14
+  s_c2c8ed1b6d8d58::t_0c84eedaa169a6 102-105
+  s_c2c8ed1b6d8d58::t_37474521165cb2 101
+  s_c2c8ed1b6d8d58::t_c2e49a85859066 106
+src/tools/csi-kata-directvolume/pkg/directvolume/backingfs_test.go
+  s_c2c8ed1b6d8d58::t_79820196af4780 139
+  s_c2c8ed1b6d8d58::t_d0515c8e687824 155-156
+  s_c2c8ed1b6d8d58::t_dca6237c5c601a 174-175
+  s_c2c8ed1b6d8d58::t_fb0882385dbedb 95,103
+  s_c2c8ed1b6d8d58::t_fe8113cb2d6834 10-11,16
+  s_c2c8ed1b6d8d58::t_be3a399014aa51 1-9,12-15,17-94,96-102,104-138,140-142,149-154,157-173,176-181
+  s_c2c8ed1b6d8d58::t_408572a78eefc5 143-148
+src/tools/csi-kata-directvolume/pkg/directvolume/backingfs.go
+  s_c2c8ed1b6d8d58::t_a0be80647d2a81 91-98,107
+  s_c2c8ed1b6d8d58::t_eb428f75c1a1ae 1-10,12,14-90,99-106,108-146
+  s_c2c8ed1b6d8d58::t_291a1747695d8e 11,13
+src/tools/csi-kata-directvolume/pkg/directvolume/directvolume.go
+  s_c2c8ed1b6d8d58::t_e11bd812e6fa7f 41-45
+  s_c2c8ed1b6d8d58::t_5abea290f65dac 232
+  s_c2c8ed1b6d8d58::t_923684804f89b8 315
+  s_c2c8ed1b6d8d58::t_3ffb95b7e2ef73 143-158,177-183,186-201
+  s_c2c8ed1b6d8d58::t_9ab8d3930812fd 120-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4137c5aa7f97a1f4290a5fc4d2f1df279a46608c",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
