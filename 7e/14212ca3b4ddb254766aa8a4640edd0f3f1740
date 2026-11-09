@@ -1,0 +1,24 @@
+src/tools/csi-kata-directvolume/deploy/manifest_test.go
+  s_c2c8ed1b6d8d58::t_84f5114f04b579 28-30
+  s_c2c8ed1b6d8d58::t_fb942df014451f 304-307,317,327
+  s_c2c8ed1b6d8d58::t_507425faab2459 41-43,46
+  s_c2c8ed1b6d8d58::t_d671bb1218e65b 1-27,31-40,44-45,47-211,218-271,273-303,308-316,318-326,328-402
+  s_c2c8ed1b6d8d58::t_23c0e25f036abd 212-217
+  s_c2c8ed1b6d8d58::t_88f9ba5423a311 272
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7e14212ca3b4ddb254766aa8a4640edd0f3f1740",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
