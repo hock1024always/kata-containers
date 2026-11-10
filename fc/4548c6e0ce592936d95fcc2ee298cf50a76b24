@@ -1,0 +1,38 @@
+src/runtime-rs/crates/hypervisor/ch-config/src/ch_api.rs
+  s_c9e31307d605b3::t_733e32c6a7f334 202-216
+src/runtime-rs/crates/resource/src/volume/direct_volumes/spdk_volume.rs
+  s_c9e31307d605b3::t_6dc1e4988d04dd 126,136
+  s_c9e31307d605b3::t_85cce3755baabb 127-135,137-138
+src/runtime-rs/crates/hypervisor/src/ch/inner_device.rs
+  s_c9e31307d605b3::t_ad00fbf4600c77 28-31
+  s_c9e31307d605b3::t_536069d9b48241 467-475
+  s_c9e31307d605b3::t_6d6107d97ce8fc 307,1012-1032,1035-1093
+  s_c9e31307d605b3::t_43851e250ecfba 1033-1034
+  s_c9e31307d605b3::t_1b350952cf15ce 53,59-62
+  s_c9e31307d605b3::t_27da8d7245c866 270-275
+  s_c9e31307d605b3::t_f63778bee6fd1d 265-269,276-278,282-306
+  s_c9e31307d605b3::t_252f50ac324458 414
+  s_c9e31307d605b3::t_1aaefb78249b78 63,308
+src/runtime-rs/crates/hypervisor/src/device/driver/vhost_user_blk.rs
+  s_c9e31307d605b3::t_a9c14f85415aa0 66-78
+src/runtime-rs/crates/hypervisor/ch-config/src/lib.rs
+  s_c9e31307d605b3::t_ea666fc7844631 654-665,667-668,680-685
+  s_c9e31307d605b3::t_93af801d8ff493 583-596
+  s_c9e31307d605b3::t_c0b06a9b180517 648-653,666,669-679,686-687
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fc4548c6e0ce592936d95fcc2ee298cf50a76b24",
+  "prompts": {},
+  "sessions": {
+    "s_c9e31307d605b3": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "f856f309-374b-460f-8e09-71b68ce1d61f",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
