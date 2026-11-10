@@ -1,0 +1,22 @@
+src/tools/csi-kata-directvolume/docs/capacity-e2e-test-plan.md
+  s_c2c8ed1b6d8d58::t_343630c9895ea6 258-260
+  s_c2c8ed1b6d8d58::t_7a79359d479e71 164
+  s_c2c8ed1b6d8d58::t_36277ed8afa61c 1-156,158-163,165-257,261-282
+  s_c2c8ed1b6d8d58::t_45ee81f12cb387 157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "69b9887308fa032a392d6c2821084264beb85875",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
