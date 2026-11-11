@@ -1,0 +1,25 @@
+.github/workflows/build-checks.yaml
+  s_c2c8ed1b6d8d58::t_b31984e663624f 125-132
+  s_c2c8ed1b6d8d58::t_f0a63770f16a7a 88
+src/tools/csi-kata-directvolume/Makefile
+  s_c2c8ed1b6d8d58::t_09d5f0c543a137 13-16,30,32-33,35-40
+  s_c2c8ed1b6d8d58::t_408740d631de8e 17-22,29,31
+  s_c2c8ed1b6d8d58::t_e0e4ae498279b9 34
+  s_c2c8ed1b6d8d58::t_a98556a69ef0cf 23-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4f000dcf6deb0f923f908964f9b06995ac7deccd",
+  "prompts": {},
+  "sessions": {
+    "s_c2c8ed1b6d8d58": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "19e9d846-f9cf-4424-9486-f1c9d1c3475d",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
