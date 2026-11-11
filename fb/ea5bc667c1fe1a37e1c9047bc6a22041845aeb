@@ -1,0 +1,24 @@
+docs/how-to/how-to-run-kata-containers-with-kinds-of-Block-Volumes.md
+  s_c9e31307d605b3::t_ef0f03832d44cf 3-5
+  s_c9e31307d605b3::t_1a322e653fbe5c 156-161,186-188
+src/runtime-rs/crates/hypervisor/ch-config/src/convert.rs
+  s_c9e31307d605b3::t_e11a71b8f35f0c 222-228
+  s_c9e31307d605b3::t_d029157d0e6481 1268-1285
+  s_c9e31307d605b3::t_5b6b190c86931a 1267
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fbea5bc667c1fe1a37e1c9047bc6a22041845aeb",
+  "prompts": {},
+  "sessions": {
+    "s_c9e31307d605b3": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "f856f309-374b-460f-8e09-71b68ce1d61f",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "hock1024always <hock***@users.noreply.github.com>"
+    }
+  }
+}
